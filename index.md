@@ -1,57 +1,39 @@
-<style>
-  /* Change font to Arial and increase size */
-  body { 
-    font-family: "Arial", sans-serif !important; 
-    font-size: 1.25rem !important; 
-    line-height: 1.6 !important;
-    color: #333 !important;
-  }
-
-  /* Ensure headers also use Arial */
-  h1, h2, h3, h4 { 
-    font-family: "Arial", sans-serif !important; 
-    font-weight: bold !important;
-  }
-
-  /* Make bullet points (Technical Skills) clear and large */
-  li { 
-    font-size: 1.2rem !important;
-    margin-bottom: 8px;
-  }
-
-  /* Professional styling for your research images */
-  img { 
-    width: 100%; 
-    max-width: 800px; 
-    border-radius: 8px;
-    margin: 20px 0;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
-</style>
-<style>
-  /* Makes all paragraph text larger */
-  body { 
-    font-size: 1.25rem; 
-    line-height: 1.6; 
-  }
-  /* Makes bullet points (Technical Skills) larger */
-  li { 
-    font-size: 1.2rem; 
-    margin-bottom: 10px;
-  }
-  /* Makes images span the full width of the content area */
-  img { 
-    width: 100%; 
-    max-width: 800px; 
-    border-radius: 10px;
-    margin: 20px 0;
-  }
-</style>
 ---
 title: "Zhiyin Yang | PhD in Chemistry | Battery Materials Scientist"
 layout: default
 ---
+<style>
+  /* Force everything to Arial */
+  body, header h1, header h2, .project-name, .project-tagline, h1, h2, h3, h4 {
+    font-family: "Arial", sans-serif !important;
+  }
 
+  /* Make body text larger and easier to read */
+  body {
+    font-size: 1.25rem !important;
+    line-height: 1.6 !important;
+    color: #333;
+  }
+
+  /* Ensure the header title is bold and clear */
+  header h1 {
+    font-size: 2.5rem !important;
+  }
+
+  /* Make images fit the template width professionally */
+  img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 8px;
+    margin: 20px 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+
+  /* Space out the list items in Technical Skills */
+  li {
+    margin-bottom: 10px;
+  }
+</style>
 ### Zhiyin Yang | Battery Materials Scientist
 
 ## About Me
