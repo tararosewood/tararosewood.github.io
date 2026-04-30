@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "####Zhiyin Yang | Battery Materials Scientist"
+title: "Zhiyin Yang | Battery Materials Scientist"
 author_profile: true
 ---
 ## About Me
