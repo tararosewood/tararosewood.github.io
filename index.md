@@ -1,8 +1,8 @@
----
+---------------------------------------------------
 permalink: /
 title: "Zhiyin Yang | Battery Materials Scientist"
 author_profile: true
----
+--------------------------------------------------------
 ## About Me
 
 I am a PhD in Chemistry at UCLA specializing in energy storage materials and electrochemistry. My research focuses on developing and understanding aqueous battery systems for scalable and safe energy storage. My work integrates materials design, electrochemical characterization, and interfacial analysis to improve performance and stability in lithium-, sodium-, and zinc-based aqueous batteries.
