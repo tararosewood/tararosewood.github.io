@@ -1,4 +1,4 @@
-<style>
+<img width="2987" height="1832" alt="image" src="https://github.com/user-attachments/assets/c6d63462-2978-4e6b-928b-83a7cdd0283b" /><style>
   /* Makes all paragraph text larger */
   body { 
     font-size: 1.25rem; 
@@ -22,7 +22,36 @@
 title: "Zhiyin Yang | PhD in Chemistry | Battery Materials Scientist"
 layout: default
 ---
+<style>
+  /* Change font to Arial and increase size */
+  body { 
+    font-family: "Arial", sans-serif !important; 
+    font-size: 1.25rem !important; 
+    line-height: 1.6 !important;
+    color: #333 !important;
+  }
 
+  /* Ensure headers also use Arial */
+  h1, h2, h3, h4 { 
+    font-family: "Arial", sans-serif !important; 
+    font-weight: bold !important;
+  }
+
+  /* Make bullet points (Technical Skills) clear and large */
+  li { 
+    font-size: 1.2rem !important;
+    margin-bottom: 8px;
+  }
+
+  /* Professional styling for your research images */
+  img { 
+    width: 100%; 
+    max-width: 800px; 
+    border-radius: 8px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+</style>
 ### Zhiyin Yang | Battery Materials Scientist
 
 ## About Me
