@@ -1,3 +1,22 @@
+<style>
+  /* Makes all paragraph text larger */
+  body { 
+    font-size: 1.25rem; 
+    line-height: 1.6; 
+  }
+  /* Makes bullet points (Technical Skills) larger */
+  li { 
+    font-size: 1.2rem; 
+    margin-bottom: 10px;
+  }
+  /* Makes images span the full width of the content area */
+  img { 
+    width: 100%; 
+    max-width: 800px; 
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+</style>
 ---
 title: "Zhiyin Yang | PhD in Chemistry | Battery Materials Scientist"
 layout: default
