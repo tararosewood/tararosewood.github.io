@@ -10,7 +10,7 @@ theme: jekyll-theme-architect
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Zhiyin Yang | PhD in Chemistry | Battery Materials Scientist"
 title_separator          : "-"
 name                     : &name "Zhiyin (Tara) Yang"
 description              : &description "PhD (UCLA) | Battery Materials Scientist | Electrolytes & Energy Storage"   # Update this with a general description of your site, this is the default if not overridden by a page
