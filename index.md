@@ -3,7 +3,7 @@ title: "Zhiyin Yang | PhD in Chemistry | Battery Materials Scientist"
 layout: default
 ---
 
-# Zhiyin Yang | Battery Materials Scientist
+### Zhiyin Yang | Battery Materials Scientist
 
 ## About Me
 
