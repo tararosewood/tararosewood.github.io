@@ -1,22 +1,4 @@
 <style>
-  /* 1. Changes the main site title and description in the header */
-  header h1, header h2, .project-name, .project-tagline {
-    font-family: "Arial", sans-serif !important;
-  }
-
-  /* 2. Changes all headers within your content (About Me, Selected Work, etc.) */
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Arial", sans-serif !important;
-    font-weight: bold !important;
-  }
-
-  /* 3. Keeps your body text consistent */
-  body {
-    font-family: "Arial", sans-serif !important;
-    font-size: 1.25rem !important;
-  }
-</style>
-<style>
   /* Makes all paragraph text larger */
   body { 
     font-size: 1.25rem; 
